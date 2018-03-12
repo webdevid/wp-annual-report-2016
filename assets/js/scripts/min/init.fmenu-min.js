@@ -1,0 +1,1 @@
+$(".toggle").click(function(){$(this).toggleClass("active"),$("#overlay-menu").toggleClass("open"),$("#sticknav").toggleClass("active")}),$(document).on("keyup",function(e){27==e.keyCode&&($("#fmenu").removeClass("active"),$("#overlay-menu").removeClass("open"))});

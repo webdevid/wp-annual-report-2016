@@ -1,0 +1,145 @@
+.theme-container.theme-human-wellbeing .home-container:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(bottom,rgba(0,0,0,0) 0,#3C8573 100%);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#3C8573));
+    background: -webkit-linear-gradient(bottom,rgba(0,0,0,0) 0,#3C8573 100%);
+    background: -o-linear-gradient(bottom,rgba(0,0,0,0) 0,#3C8573 100%);
+    background: -ms-linear-gradient(bottom,rgba(0,0,0,0) 0,#3C8573 100%);
+    background: linear-gradient(to top,rgba(0,0,0,0) 0,#3C8573 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3C8573', endColorstr='#3C8573', GradientType=0);
+}
+
+.theme-container.theme-landscapes-food .home-container:before {
+   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(bottom,rgba(0,0,0,0) 0,#519484 100%);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#519484));
+    background: -webkit-linear-gradient(bottom,rgba(0,0,0,0) 0,#519484 100%);
+    background: -o-linear-gradient(bottom,rgba(0,0,0,0) 0,#519484 100%);
+    background: -ms-linear-gradient(bottom,rgba(0,0,0,0) 0,#519484 100%);
+    background: linear-gradient(to top,rgba(0,0,0,0) 0,#519484 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#519484', endColorstr='#519484', GradientType=0);
+}
+
+.theme-container.theme-climate-change-energy .home-container:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(bottom,rgba(0,0,0,0) 0,#84c396 100%);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#84c396));
+    background: -webkit-linear-gradient(bottom,rgba(0,0,0,0) 0,#84c396 100%);
+    background: -o-linear-gradient(bottom,rgba(0,0,0,0) 0,#84c396 100%);
+    background: -ms-linear-gradient(bottom,rgba(0,0,0,0) 0,#84c396 100%);
+    background: linear-gradient(to top,rgba(0,0,0,0) 0,#84c396 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#84c396', endColorstr='#84c396', GradientType=0);
+}
+
+.theme-container.theme-gender-justice-tenure .home-container:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(bottom,rgba(0,0,0,0) 0,#84c396 100%);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#64b08a));
+    background: -webkit-linear-gradient(bottom,rgba(0,0,0,0) 0,#64b08a 100%);
+    background: -o-linear-gradient(bottom,rgba(0,0,0,0) 0,#64b08a 100%);
+    background: -ms-linear-gradient(bottom,rgba(0,0,0,0) 0,#64b08a 100%);
+    background: linear-gradient(to top,rgba(0,0,0,0) 0,#64b08a 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#64b08a', endColorstr='#64b08a', GradientType=0);
+}
+
+.theme-container.theme-value-chains-finance .home-container:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(bottom,rgba(0,0,0,0) 0,#65A594 100%);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#65A594));
+    background: -webkit-linear-gradient(bottom,rgba(0,0,0,0) 0,#65A594 100%);
+    background: -o-linear-gradient(bottom,rgba(0,0,0,0) 0,#65A594 100%);
+    background: -ms-linear-gradient(bottom,rgba(0,0,0,0) 0,#65A594 100%);
+    background: linear-gradient(to top,rgba(0,0,0,0) 0,#65A594 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#65A594', endColorstr='#65A594', GradientType=0);
+}
+
+.theme-container.theme-forest-management-restoration .home-container:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(bottom,rgba(0,0,0,0) 0,#589989 100%);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#589989));
+    background: -webkit-linear-gradient(bottom,rgba(0,0,0,0) 0,#589989 100%);
+    background: -o-linear-gradient(bottom,rgba(0,0,0,0) 0,#589989 100%);
+    background: -ms-linear-gradient(bottom,rgba(0,0,0,0) 0,#589989 100%);
+    background: linear-gradient(to top,rgba(0,0,0,0) 0,#589989 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#589989', endColorstr='#589989', GradientType=0);
+}
+
+.theme-title.selected-publications:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,rgba(0,0,0,0) 0,#41474b 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#41474b));
+    background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,#41474b 100%);
+    background: -o-linear-gradient(top,rgba(0,0,0,0) 0,#41474b 100%);
+    background: -ms-linear-gradient(top,rgba(0,0,0,0) 0,#41474b 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0,#41474b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#41474b', endColorstr='#41474b', GradientType=0);
+}
+
+.theme-title.creating-impact:before {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,rgba(0,0,0,0) 0,#7a563e 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,rgba(0,0,0,0)),color-stop(100%,#7a563e));
+    background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,#7a563e 100%);
+    background: -o-linear-gradient(top,rgba(0,0,0,0) 0,#7a563e 100%);
+    background: -ms-linear-gradient(top,rgba(0,0,0,0) 0,#7a563e 100%);
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0,#7a563e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7a563e', endColorstr='#7a563e', GradientType=0);
+}
+
+.bg-theme-wellbeing {
+    background: #589989;
+}
+
+.bg-landscapes-food {
+    background: #64b08a;
+}
+
+.bg-climate-change-energy {
+    background: #6BC5E7;
+}
+
+.bg-gender-justice-tenure {
+    background: #E6D290;
+}
+
+.bg-value-chains-finance {
+    background: #BB805A;
+}
+
+.bg-forest-management-restoration {
+    background: #4EC4AA;
+}
+
+/* Background color style for each category */
+
+.pi-has-logo.mn-theme-wellbeing:hover .overlay-darker {
+    background: #3C8573 ;
+}
+
+.pi-has-logo.mn-landscapes-food:hover .overlay-darker {
+    background: #519484;
+}
+
+.pi-has-logo.mn-climate-change-energy:hover .overlay-darker {
+    background: #84C396;
+}
+
+.pi-has-logo.mn-gender-justice-tenure:hover .overlay-darker {
+    background: #64B08A;
+}
+
+.pi-has-logo.mn-value-chains-finance:hover .overlay-darker {
+    background: #65A594;
+}
+
+.pi-has-logo.mn-forest-management-restoration:hover .overlay-darker {
+    background: #589989;
+}
+
+.bg-selected-publications {
+    background: #41474b;
+}
+
+.bg-creating-impact {
+    background: #7a563e;
+}
